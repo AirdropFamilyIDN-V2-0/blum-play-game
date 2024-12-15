@@ -1,3 +1,4 @@
+#credit https://github.com/zuydd/blum & https://github.com/boytegar/BlumBOT
 import argparse
 import random
 import threading
